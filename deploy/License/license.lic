@@ -1,0 +1,27 @@
+﻿<License>
+  <Id>55f64553-abd1-40a3-aed8-2398662611d4</Id>
+  <Type>Trial</Type>
+  <Expiration>Fri, 20 Feb 2026 00:00:00 GMT</Expiration>
+  <Quantity>1</Quantity>
+  <ProductFeatures>
+    <Feature name="IsEnterprise">False</Feature>
+    <Feature name="IsProduction">False</Feature>
+    <Feature name="Product">SmartRobotPalletizer</Feature>
+    <Feature name="Version">V1.0.0</Feature>
+    <Feature name="Publish Date">08/02/2025</Feature>
+  </ProductFeatures>
+  <Customer>
+    <Name>Administrator</Name>
+    <Email>admin@test.com</Email>
+    <Company>None</Company>
+  </Customer>
+  <LicenseAttributes>
+    <Attribute name="Region">CN</Attribute>
+    <Attribute name="Customer">TURIN</Attribute>
+    <Attribute name="DeviceID">76A1D0DD-B640-DE91-697D-70281B62DC38</Attribute>
+    <Attribute name="Product Identity">c3a86ddd7f17752a80f7133678246655248b95010c88c69c39ae238aaa7c278a</Attribute>
+    <Attribute name="Assembly Identity"></Attribute>
+    <Attribute name="Expiration Days">150</Attribute>
+  </LicenseAttributes>
+  <Signature>MEQCIDcB40TNTCMjKNF2jTuyl3y5YxeCvWeW82RpQiN5w62GAiBRftk/NGRWIkhj6HNlSzw0v7argsYMdeoHUHE0IwBeCA==</Signature>
+</License>

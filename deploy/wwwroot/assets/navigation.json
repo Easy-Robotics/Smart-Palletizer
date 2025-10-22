@@ -1,0 +1,22 @@
+[
+  {
+    "label": "GENERATE_PATTERN", "value": "/generate-pattern", "url": "assets/imgs/component.svg",
+    "description": ""
+  },
+  {
+    "label": "ROUTINES", "value": "/routines", "url": "assets/imgs/component.svg",
+    "description": ""
+  },
+  {
+    "label": "EDIT_LAYER", "value": "/edit-layer", "url": "assets/imgs/component.svg",
+    "description": ""
+  },
+  {
+    "label": "MULTI_GRIPPERS", "value": "/multi-grippers", "url": "assets/imgs/component.svg",
+    "description": ""
+  },
+  {
+    "label": "PALLETIZER_CONTROL", "value": "/palletizer-control", "url": "assets/imgs/component.svg",
+    "description": ""
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "PatternGeneratorSettings": {
+    "MaxNumInterlayers": 3,
+    "MaxNumProductTypes": 9,
+    "MaxNumLayerLayouts": 5,
+    "MaxNumOfApproachRoutines": 10,
+    "MaxNumPallets": 4,
+    "MaxNumProductsOnPallet": 600,
+    "MaxNumInterlayerTypes": 4,
+    "MaxNumberProductsInOneLayer": 100,
+    "MaxIndexBlocks": 4,
+    "MaxIndexIterations": 4,
+    "MaxNumberPalletTypes": 9,
+    "MaxNumberLayers": 30,
+    "MaxQuantityLimit": 10, // should not exceed MaxNumOfApproachRoutines (max limitation of products, pallets, etc.)
+    "MaxNumberOfGripper": 4,
+    "MaxNumberOfGripperGroup": 26
+  }
+}
