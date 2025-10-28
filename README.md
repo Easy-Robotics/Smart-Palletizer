@@ -43,12 +43,13 @@ The repository also provides several RoboDK simulation projects to help user deb
 
 The RoboDK projects are located in the `assets` folder within the repository. Open the desired project file in RoboDK to start simulating the single-gripper or multi-gripper palletizing.
 
-<img src="./videos/Media1.gif" alt="single gripper palletizing" style="width: 150px" />
-
-<img src="./videos/Media2.gif" alt="double gripper palletizing" style="width: 150px" />
-
-<img src="./videos/Media3.gif" alt="triple gripper palletizing" style="width: 170px" />
-
+<table>
+	<tr>
+		<td><img src="./videos/Media1.gif" alt="single gripper palletizing" style="width: 150px" /></td>
+		<td><img src="./videos/Media2.gif" alt="double gripper palletizing" style="width: 150px" /></td>
+		<td><img src="./videos/Media3.gif" alt="triple gripper palletizing" style="width: 170px" /></td>
+	</tr>
+</table>
 
 <h2>Get Start with Web Generator</h2>
 
